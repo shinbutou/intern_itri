@@ -1,2 +1,2 @@
 # ReadMe
-This repository is dedicated
+This repository is dedicated to the project
